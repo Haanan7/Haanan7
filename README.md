@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Hanan! 👋</h1>
-
 ###
 
 <div align="center">
@@ -11,14 +10,9 @@
 <br clear="both">
 
 <h4 align="left">👩‍💻 About Me</h4>
-
 ###
-
 <br clear="both">
-
 <p align="left">Computer Science graduate, passionate about building products that solve real problems! 🚀</p>
-
-###
 
 <h4 align="left">🛠️ Tech Stack & Tools</h4>
 
